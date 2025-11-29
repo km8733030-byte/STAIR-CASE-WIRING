@@ -1,10 +1,10 @@
 # STAIR-CASE-WIRING
 
-#AIM
+AIM
 To control the status of the given lamp by using two – way switches.
 
 
-#APPARATUS REQUIRED:
+APPARATUS REQUIRED:
 S.No Name of the apparatus Range / Type Quantity
 1 Incandescent Lamp 60W 1 No.
 2 Lamp Holder Pendent Type 1 No.
@@ -14,7 +14,7 @@ S.No Name of the apparatus Range / Type Quantity
 6 Wooden Board - 1 No.
 7 Round block - 1 No
 
-#PROCEDURE
+PROCEDURE
 
 • Place the accessories on the wiring board as per the circuit diagram.
 • Place the P.V.C pipe and insert two wires into the P.V.C pipe.
@@ -29,19 +29,19 @@ is connected to one end of the lamp holder.
 • Screw the accessories on the board and switch on the supply.
 • Circuit is tested for all possible combination of switch positions
 
-#Circuit Diagram:
+Circuit Diagram:
 Direct Connection:
 <img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
 
-#Tabulation:
+Tabulation:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a54af43-a14f-414c-bcd0-cba71d049de8" />
 
 
-#Circuit Diagram:
+Circuit Diagram:
 Cross Connection:
 <img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
 
-#Tabulation 2
+Tabulation 2
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/550d2e4e-5e95-4552-ab96-b7a2844349d4" />
 
 
